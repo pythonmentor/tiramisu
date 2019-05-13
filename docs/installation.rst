@@ -12,7 +12,13 @@ To install tchappui-tiramisu, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install tiramisu
+    $ pip install chappui-tiramisu
+
+It is also possible to install the project using pipenv:
+
+.. code-block:: console
+
+    $ pipenv install tchappui-tiramisu
 
 This is the preferred method to install tchappui-tiramisu, as it will always install the most recent stable release.
 
