@@ -20,7 +20,7 @@ Function to remember how to prepare tiramisu
 
 
 * Free software: MIT license
-* Documentation: https://tiramisu.readthedocs.io.
+* Documentation: https://tchappui-tiramisu.readthedocs.io
 
 
 Features
